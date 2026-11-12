@@ -1,0 +1,6 @@
+{
+  "name": "AI Gold Scalping Pro",
+  "description": "Professional real-time XAU/USD scalping signals, multi-timeframe quantitative analyzer, auto lot calculator, and smart trading journal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

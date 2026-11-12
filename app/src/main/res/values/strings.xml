@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AI Gold Scalping Pro</string>
+    <string name="xau_usd_pair">XAU/USD</string>
+    <string name="status_live">LIVE</string>
+    <string name="status_offline">OFFLINE</string>
+    <string name="status_demo">DEMO MODE</string>
+</resources>
